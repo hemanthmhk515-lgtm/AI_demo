@@ -1,0 +1,1 @@
+print("your AI assistant is ready to train!")
